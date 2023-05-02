@@ -1,0 +1,192 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: 'Barlow Condensed', sans-serif;
+}
+
+.header {
+  text-align: center;
+  padding: 20% 0 50px ;
+  font-weight: 400;
+
+}
+
+.header h1{
+  padding-bottom: 20px;
+}
+
+.number{
+  padding-top: 50px;
+  font-size: 30px;
+}
+
+.button{
+  text-align: center;
+  padding: 0px 18px;
+  text-transform: capitalize;
+  
+}
+
+.btn {
+  font-size: 15px;
+  padding: 3px 10px;
+  background-color: transparent;
+  font-family: bold;
+  text-transform: uppercase;
+  border-radius: 5px;
+  margin: 0 10px;
+  
+}
+
+/* .btn:hover{
+  background: goldenrod;
+} */
+
+@media only screen and (min-width: 270px) {
+
+ 
+  .button{
+    text-align: center;
+    padding: 0px 83px;
+    text-transform: capitalize;
+    
+   
+    
+  }
+  
+  .btn {
+    font-size: 15px;
+    padding: 3px 15px;
+    font-family: bold;
+    text-transform: uppercase;
+    border-radius: 5px;
+    margin: 10px 5px;
+    display: block;
+  
+  }
+}
+
+@media only screen and (min-width: 290px) {
+
+ 
+  .button{
+  text-align: center;
+  padding: 0px 83px;
+  text-transform: capitalize;
+    
+   
+    
+  }
+  
+  .btn {
+    font-size: 15px;
+    padding: 3px 15px;
+    font-family: bold;
+    text-transform: uppercase;
+    border-radius: 5px;
+    display: block;
+   */
+    /* display: block; */
+  
+  }
+}
+
+@media only screen and (min-width: 300px) {
+
+ 
+  .button{
+  text-align: center;
+  padding: 0px 83px;
+  text-transform: capitalize;
+    
+   
+    
+  }
+  
+  .btn {
+    font-size: 15px;
+    padding: 3px 15px;
+    font-family: bold;
+    text-transform: uppercase;
+    border-radius: 5px;
+    display: inline-flex;
+   */
+    /* display: block; */
+  
+  }
+}
+
+@media only screen and (min-width: 342px) {
+
+ 
+  .button{
+  text-align: center;
+  padding: 0px 18px;
+  text-transform: capitalize;
+    
+   
+    
+  }
+  
+  .btn {
+    font-size: 15px;
+    padding: 3px 15px;
+    font-family: bold;
+    text-transform: uppercase;
+    border-radius: 5px;
+    display: inline-flex;
+   */
+    /* display: block; */
+  
+  }
+}
+
+@media only screen and (min-width: 560px) {
+
+ 
+  .button{
+  text-align: center;
+  padding: 0px 40px;
+  text-transform: capitalize;
+    
+   
+    
+  }
+  
+  .btn {
+    font-size: 16px;
+    padding: 3px 25px;
+    font-family: bold;
+    text-transform: uppercase;
+    border-radius: 5px;
+    display: inline-flex;
+   */
+    /* display: block; */
+  
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+
+ 
+  .button{
+  text-align: center;
+  padding: 0px 45px;
+  text-transform: uppercase;
+ 
+   
+    
+  }
+  
+  .btn {
+    font-size: 16px;
+    padding: 3px 40px;
+    font-family: bold;
+    text-transform: uppercase;
+    border-radius: 5px;
+    display: inline-flex;
+  
+  
+  }
+}
